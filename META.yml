@@ -21,4 +21,4 @@ no_index:
 requires:
   XML::Writer: 0.6
   perl: 5.006
-version: 0.1
+version: 0.11
